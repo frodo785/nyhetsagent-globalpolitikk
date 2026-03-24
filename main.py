@@ -7,8 +7,8 @@ import openai # Du trenger en API-nøkkel fra OpenAI eller tilsvarende
 # --- KONFIGURASJON ---
 # Erstatt disse med dine egne verdier eller miljøvariabler
 OPENAI_API_KEY = "DIN_API_NØKKEL_HER"
-AVSENDER_EPOST = "din.epost@gmail.com"
-AVSENDER_PASSORD = "ditt_app_passord" # Bruk "App Password" hvis du bruker Gmail
+AVSENDER_EPOST = "frodo@venstre.no"
+AVSENDER_PASSORD = "fdhv orfh uzgk tuqg" # Bruk "App Password" hvis du bruker Gmail
 MOTTAKER_EPOST = "frode.nergaard.fjeldstad@spv.no"
 
 KILDER = {
