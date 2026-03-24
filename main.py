@@ -6,7 +6,7 @@ import openai # Du trenger en API-nøkkel fra OpenAI eller tilsvarende
 
 # --- KONFIGURASJON ---
 # Erstatt disse med dine egne verdier eller miljøvariabler
-OPENAI_API_KEY = "DIN_API_NØKKEL_HER"
+OPENAI_API_KEY = "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"
 AVSENDER_EPOST = "frodo@venstre.no"
 AVSENDER_PASSORD = "fdhv orfh uzgk tuqg" # Bruk "App Password" hvis du bruker Gmail
 MOTTAKER_EPOST = "frode.nergaard.fjeldstad@spv.no"
